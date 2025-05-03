@@ -1,9 +1,11 @@
-# SKO Music Album Collection
+- Branch cd-256CV-m4a
+# SKO Compact Disc Music Album Collection
 ## By Akawat, subsidiary of SKO
+
 
 ### Info :
 This is "a private album" that is the collection of CD music album stored in one place
-The music files is **compressed music** in m4a (Advance Audio Coding) codec at 320kbps Constrained Variable Bitrates.
+The music files is **compressed music** in m4a (Advance Audio Coding) codec at 256kbps Constrained Variable Bitrates.
 
 ### Disclaimer!
 * These album is for private use only! Do not copy, download, or distribute all of this albums because there are have copyright of the music company!
